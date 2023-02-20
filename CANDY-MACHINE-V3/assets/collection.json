@@ -1,0 +1,15 @@
+{
+  "name": "Cute Animals Collection",
+  "symbol": "CA",
+  "description": "Collection of 10 cute animals on the blockchain.",
+  "image": "collection.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

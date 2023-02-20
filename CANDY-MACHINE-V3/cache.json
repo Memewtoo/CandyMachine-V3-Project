@@ -1,0 +1,98 @@
+{
+  "program": {
+    "candyMachine": "qqpYocDvBFCnfMHb1Giiez6ENn3HDEpXbP6izeYJ5zL",
+    "candyGuard": "2F1hxyBAVkhYKuPKe7Ckv2zr4Q9EKdxWj1kG6xjgMDHD",
+    "candyMachineCreator": "9EiSLVuCJmQVQVziNQqMZFqecho9NASbqQd3XxHwZxNt",
+    "collectionMint": "CTNZmRxwUJBCShujCBeNnkFY3HdB2s9QFSWCHxVVb1HA"
+  },
+  "items": {
+    "-1": {
+      "name": "Cute Animals Collection",
+      "image_hash": "c47da4ade11962e4b96e2e2352b5af228324192266ba361e8fd55d6acdd57f74",
+      "image_link": "https://arweave.net/dFazFyQrKWIdRFqyy6lO3KeN5AfTNxKHNBPivzN9fXQ?ext=jpg",
+      "metadata_hash": "e6c73a61ec30f581d9e876e16acf2bd9197b1b0f53e1e65716ed19b181bdef3c",
+      "metadata_link": "https://arweave.net/sCkBNe1k4QJp50bH_-PIIqKmv1T2dPSZ610L8PnhNZk",
+      "onChain": true
+    },
+    "0": {
+      "name": "Bunny #0001",
+      "image_hash": "de591b45a1a33573022b9e14c402dbc0382aeb575f2acb0e8a07db1bb5b26624",
+      "image_link": "https://arweave.net/Tby6PK-lb2KuqfepLEA-ybbAGBRpDMO6fzgnb4M7q30?ext=jpg",
+      "metadata_hash": "7694cbe12af2761616e5c417d08d72de731ce26e992a18afb482d77aaeb14567",
+      "metadata_link": "https://arweave.net/E12zurokc0BoLRKGO-7xRo4ANR4Kv2daC9KsGhQEhv4",
+      "onChain": true
+    },
+    "1": {
+      "name": "Ducklings #0002",
+      "image_hash": "a8a4ae9c2c2b9f8cd76cb7df24289862ca56c65a8b20e786ccc877e3e075413e",
+      "image_link": "https://arweave.net/1bC2jn3Vpe6NBkJJFVivUrEEWZGXzxSQ5JDVs9yCOIM?ext=jpg",
+      "metadata_hash": "12ab9d637b8ede21a8d2234f1bb60b336b5753c4963587830901a872dd9711da",
+      "metadata_link": "https://arweave.net/DCQ3LlQmbfG62BxtubW6ysyqweIYtS8uweLyItaFv_A",
+      "onChain": true
+    },
+    "2": {
+      "name": "Kitten #0003",
+      "image_hash": "a6a63148f949b7c70725c24dd6dcc5c0e1e90f765a07a597c06846abfa7db557",
+      "image_link": "https://arweave.net/NwEBCgeYFlNwSQPCh8depayvSS-oa8irToLF2VjMQnY?ext=jpg",
+      "metadata_hash": "02a22f32f7e6a4f9e1314ecf6acf2925d4743edb82d216fa5bc11fcb2221b86d",
+      "metadata_link": "https://arweave.net/TrEZOIvgpqzWAZ6-pzWLDT953IMYheGIQ6JmQ-vlQoM",
+      "onChain": true
+    },
+    "3": {
+      "name": "Panda #0004",
+      "image_hash": "3dd7c1246216a28407a3d3d599a652ccdb69fcc9f6dbe6a4286f03c35a4cbd6f",
+      "image_link": "https://arweave.net/thy8xqxO2rUGfNSgEdevVEl9RnKaBGpIA5POXKYlP_s?ext=jpg",
+      "metadata_hash": "c6e811cda080e0835b7d84de286a89dbfa6d86b0f4e933afb7c6f76f1f593edd",
+      "metadata_link": "https://arweave.net/-5nktcbQaiIs_DiznVVBGeY-D2oQg5V2yatENrC6wOk",
+      "onChain": true
+    },
+    "4": {
+      "name": "Number #0005",
+      "image_hash": "2447c9c9e758859aa2b5cf43806ee13db43c1f774349516b188585d789c727f1",
+      "image_link": "https://arweave.net/bHSjmJ8Qmi_hqKLdwf__uJoP9LrCM7m0pE7AF-BCEdE?ext=jpg",
+      "metadata_hash": "ca1c5b4381b4c340d712743e7ca8d91006b568d787a85c548143dbe2b03281c7",
+      "metadata_link": "https://arweave.net/pv4IoWF97Oxrdfu9ZhOcEWqmBEpqL4fav3GhIcxw-8U",
+      "onChain": true
+    },
+    "5": {
+      "name": "Piglet #0006",
+      "image_hash": "36b0861433028b3a3cf5bd0bf0ac9eab4ff95b30dfe032ace457077a2c1c1ab0",
+      "image_link": "https://arweave.net/f0upA5_rY_vfgsoBjZsx8GYlMY1khPZ2Ro7FHGTOnjM?ext=jpg",
+      "metadata_hash": "182a52ef9fbe63658d705bfe10e1710b7548c9105b865a4be0fbf36c05f08c66",
+      "metadata_link": "https://arweave.net/UJmgcKlVz620aye7ty4HV5cIsQAo1Fpb9P-c-dejViM",
+      "onChain": true
+    },
+    "6": {
+      "name": "Puppy #0007",
+      "image_hash": "8006ea45d0c61a9995cc456262a50aa567c5de70ecfd7f2bba63b23c170a6fdf",
+      "image_link": "https://arweave.net/EaKRNOP0HUl_rGBGH9zyeHOdoEWtQp1UutpwA9ulq2w?ext=jpg",
+      "metadata_hash": "e40c3ae44a4c2c4c7318a7d30eecabc84474812dcd69cfd5c9adfa853b4b9d88",
+      "metadata_link": "https://arweave.net/zIyENyMt4BTBC0VDQBudTeu-tdESJZ8bDfBX3ZuiUmY",
+      "onChain": true
+    },
+    "7": {
+      "name": "Sea Otter #0008",
+      "image_hash": "56a4924613bdff09810ce9ab858a8f61662eab541bff4ba48cdf78dc6a9a51a7",
+      "image_link": "https://arweave.net/BEyxCXlpaL-9zZ8zpRVIRuF1KT_mV8JnIiWN-2ccnYc?ext=jpg",
+      "metadata_hash": "6d8444ded328d4e1e8f9c38edb901d9c44c6fe188ce6f8e092b9a0886478b891",
+      "metadata_link": "https://arweave.net/iXR52hwBHPBKRWWGb5BMnzRtgkz4NRJuFzE-YzI672Y",
+      "onChain": true
+    },
+    "8": {
+      "name": "Seal #0009",
+      "image_hash": "17027a720fa1acde704891b3a12c61d2af488bd9aa31a9dcaf293d4f4902f5ac",
+      "image_link": "https://arweave.net/nnoRDbiMCdCfUSGsm7YVAxaXrU6UKCIeg3G3YsRvV8M?ext=jpg",
+      "metadata_hash": "06e0d29be32d581b8631c4b3a8fa3942a79b1fd6fa3e989a9410727844e23850",
+      "metadata_link": "https://arweave.net/lbmY314USXReO7t81nVAJWJqnWzGKLFURtLBCKi-E2g",
+      "onChain": true
+    },
+    "9": {
+      "name": "Squirrel #0010",
+      "image_hash": "6fa544aa90aa5e95ed3356ff35f6c56e670b8a4e4187ff7bc1e31782f78c7160",
+      "image_link": "https://arweave.net/FJq4ZZkBxc7lFr6bCGL0c-9kgCZ5knXr9Gv4OpN9oag?ext=jpg",
+      "metadata_hash": "7135e20efcf6e83c622774475c704c1597e689e5ff6f4fa5832784f114935069",
+      "metadata_link": "https://arweave.net/_mB8QgFyg9xN4h6TV3wwJP6KLVXfU7gMwZNlgZo8FWo",
+      "onChain": true
+    }
+  }
+}
